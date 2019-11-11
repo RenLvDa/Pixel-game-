@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileMap", "TileMap.csproj", "{9DC95CEF-B246-6CB0-EC20-27E4D848E9F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileMap.Plugins", "TileMap.Plugins.csproj", "{116DF144-8AD3-AD8B-2230-1B754EAAB8D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileMap.Editor", "TileMap.Editor.csproj", "{F1CD6AA9-1051-9795-9804-6512DCF1D827}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DC95CEF-B246-6CB0-EC20-27E4D848E9F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC95CEF-B246-6CB0-EC20-27E4D848E9F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC95CEF-B246-6CB0-EC20-27E4D848E9F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC95CEF-B246-6CB0-EC20-27E4D848E9F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{116DF144-8AD3-AD8B-2230-1B754EAAB8D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{116DF144-8AD3-AD8B-2230-1B754EAAB8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{116DF144-8AD3-AD8B-2230-1B754EAAB8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{116DF144-8AD3-AD8B-2230-1B754EAAB8D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1CD6AA9-1051-9795-9804-6512DCF1D827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1CD6AA9-1051-9795-9804-6512DCF1D827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1CD6AA9-1051-9795-9804-6512DCF1D827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1CD6AA9-1051-9795-9804-6512DCF1D827}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
